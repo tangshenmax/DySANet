@@ -13,4 +13,4 @@ To ensure reproducibility while respecting the publication process, the complete
 
 Thank you for your interest in our work.
 
-![Overall]assets/images/DySANet.png
+![Overall](assets/images/DySANet.png)
