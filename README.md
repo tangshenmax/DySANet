@@ -1,4 +1,4 @@
-# DySANet
+# DySA-Net
 
 Official repository for the paper:
 
