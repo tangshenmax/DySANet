@@ -1,4 +1,4 @@
-# UGNet
+# DySANet
 
 Official repository for the paper:
 
