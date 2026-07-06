@@ -17,4 +17,4 @@ Thank you for your interest in our work.
 ![Overall](assets/images/DySANet.png)
 
 ## SegVis
-![SegVis](assets/images/Fig7_BUS_Seg_Vis.pdf)
+![SegVis](assets/images/BUS_Seg_Vis.png)
