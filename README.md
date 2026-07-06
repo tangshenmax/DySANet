@@ -18,3 +18,6 @@ Thank you for your interest in our work.
 
 ## SegVis
 ![SegVis](assets/images/BUS_Seg_Vis.png)
+![SegVis](assets/images/Polyp_Seg_Vis.png)
+![SegVis](assets/images/Skin_Seg_Vis.png)
+![SegVis](assets/images/COVID_Seg_Vis.png)
