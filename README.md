@@ -19,5 +19,5 @@ Thank you for your interest in our work.
 ## SegVis
 ![SegVis](assets/images/Skin_Seg_Vis.png)
 
-##Dataset
+## Dataset
 [ISIC2016](https://challenge.isic-archive.com/data/#2016)
