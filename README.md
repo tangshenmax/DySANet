@@ -20,6 +20,21 @@ Thank you for your interest in our work.
 ![SegVis](assets/images/Skin_Seg_Vis.png)
 
 ## Dataset
+[BUSBRA](https://zenodo.org/records/8231412)
+```bibtex
+@article{gomez2024bus,
+	title={BUS-BRA: a breast ultrasound dataset for assessing computer-aided diagnosis systems},
+	author={G{\'o}mez-Flores, Wilfrido and Gregorio-Calas, Maria Julia and Coelho de Albuquerque Pereira, Wagner},
+	journal={Medical Physics},
+	volume={51},
+	number={4},
+	pages={3110--3123},
+	year={2024},
+	publisher={Wiley Online Library}
+}
+```
+
+
 [BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 ```bibtex
 @article{ALDHABYANI2020104863,
