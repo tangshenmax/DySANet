@@ -21,5 +21,11 @@ Thank you for your interest in our work.
 
 ## Dataset
 [ISIC2016](https://challenge.isic-archive.com/data/#2016)
+@article{gutman2016skin,
+	title={Skin lesion analysis toward melanoma detection: A challenge at the international symposium on biomedical imaging (ISBI) 2016, hosted by the international skin imaging collaboration (ISIC)},
+	author={Gutman, David and Codella, Noel CF and Celebi, Emre and Helba, Brian and Marchetti, Michael and Mishra, Nabin and Halpern, Allan},
+	journal={arXiv preprint arXiv:1605.01397},
+	year={2016}
+}
 
 [ISIC2018](https://challenge.isic-archive.com/data/#2018)
