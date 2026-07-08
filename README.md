@@ -20,6 +20,19 @@ Thank you for your interest in our work.
 ![SegVis](assets/images/Skin_Seg_Vis.png)
 
 ## Dataset
+[BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
+```bibtex
+@article{ALDHABYANI2020104863,
+	title = {Dataset of breast ultrasound images},
+	journal = {Data in Brief},
+	volume = {28},
+	pages = {104863},
+	year = {2020},
+	issn = {2352-3409},
+	author = {Walid Al-Dhabyani and Mohammed Gomaa and Hussien Khaled and Aly Fahmy},
+}
+```
+
 [ISIC2016](https://challenge.isic-archive.com/data/#2016)
 ```bibtex
 @article{gutman2016skin,
