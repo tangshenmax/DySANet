@@ -30,3 +30,11 @@ Thank you for your interest in our work.
 }
 ```
 [ISIC2018](https://challenge.isic-archive.com/data/#2018)
+```bibtex
+@article{codella2019skin,
+	title={Skin lesion analysis toward melanoma detection 2018: A challenge hosted by the international skin imaging collaboration (isic)},
+	author={Codella, Noel and Rotemberg, Veronica and Tschandl, Philipp and Celebi, M Emre and Dusza, Stephen and Gutman, David and Helba, Brian and Kalloo, Aadi and Liopyris, Konstantinos and Marchetti, Michael and others},
+	journal={arXiv preprint arXiv:1902.03368},
+	year={2019}
+}
+```
