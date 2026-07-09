@@ -47,6 +47,20 @@ Thank you for your interest in our work.
 }
 ```
 
+[STU](https://drive.google.com/file/d/1k3OvEnYZaPWrng74aP4hAhgPXNHjpPj3/view?usp=drive_link)
+```bibtex
+@article{zhuang2019rdau,
+	title={An RDAU-NET model for lesion segmentation in breast ultrasound images},
+	author={Zhuang, Zhemin and Li, Nan and Joseph Raj, Alex Noel and Mahesh, Vijayalakshmi GV and Qiu, Shunmin},
+	journal={PloS one},
+	volume={14},
+	number={8},
+	pages={e0221535},
+	year={2019},
+	publisher={Public Library of Science San Francisco, CA USA}
+}
+```
+
 [Kvasir](https://datasets.simula.no/kvasir-seg/)
 ```bibtex
 @inproceedings{jha2019kvasir,
@@ -103,5 +117,17 @@ Thank you for your interest in our work.
 	author={Codella, Noel and Rotemberg, Veronica and Tschandl, Philipp and Celebi, M Emre and Dusza, Stephen and Gutman, David and Helba, Brian and Kalloo, Aadi and Liopyris, Konstantinos and Marchetti, Michael and others},
 	journal={arXiv preprint arXiv:1902.03368},
 	year={2019}
+}
+```
+
+[PH2](https://www.kaggle.com/datasets/athina123/ph2dataset)
+```bibtex
+@inproceedings{mendoncca2013ph,
+	title={PH 2-A dermoscopic image database for research and benchmarking},
+	author={Mendon{\c{c}}a, Teresa and Ferreira, Pedro M and Marques, Jorge S and Marcal, Andr{\'e} RS and Rozeira, Jorge},
+	booktitle={2013 35th annual international conference of the IEEE engineering in medicine and biology society (EMBC)},
+	pages={5437--5440},
+	year={2013},
+	organization={IEEE}
 }
 ```
