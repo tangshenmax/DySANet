@@ -47,6 +47,45 @@ Thank you for your interest in our work.
 }
 ```
 
+[Kvasir](https://datasets.simula.no/kvasir-seg/)
+```bibtex
+@inproceedings{jha2019kvasir,
+	title={Kvasir-seg: A segmented polyp dataset},
+	author={Jha, Debesh and Smedsrud, Pia H and Riegler, Michael A and Halvorsen, P{\aa}l and De Lange, Thomas and Johansen, Dag and Johansen, H{\aa}vard D},
+	booktitle={International conference on multimedia modeling},
+	pages={451--462},
+	year={2019},
+	organization={Springer}
+}
+```
+
+[ClinicDB](https://polyp.grand-challenge.org/CVCClinicDB/)
+```bibtex
+@article{bernal2015wm,
+	title={WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians},
+	author={Bernal, Jorge and S{\'a}nchez, F Javier and Fern{\'a}ndez-Esparrach, Gloria and Gil, Debora and Rodr{\'\i}guez, Cristina and Vilari{\~n}o, Fernando},
+	journal={Computerized medical imaging and graphics},
+	volume={43},
+	pages={99--111},
+	year={2015},
+	publisher={Elsevier}
+}
+```
+
+[ColonDB](https://www.kaggle.com/datasets/longvil/cvc-colondb)
+```bibtex
+@article{tajbakhsh2015automated,
+	title={Automated polyp detection in colonoscopy videos using shape and context information},
+	author={Tajbakhsh, Nima and Gurudu, Suryakanth R and Liang, Jianming},
+	journal={IEEE transactions on medical imaging},
+	volume={35},
+	number={2},
+	pages={630--644},
+	year={2015},
+	publisher={IEEE}
+}
+```
+
 
 [ISIC2016](https://challenge.isic-archive.com/data/#2016)
 ```bibtex
