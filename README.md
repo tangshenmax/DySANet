@@ -20,6 +20,7 @@ Thank you for your interest in our work.
 ![SegVis](assets/images/Skin_Seg_Vis.png)
 
 ## Dataset
+[Dataset Structure]
 ```bibtex
 - datasets
     - train
