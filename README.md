@@ -19,6 +19,9 @@ Thank you for your interest in our work.
 ## SegVis
 ![SegVis](assets/images/Skin_Seg_Vis.png)
 
+## pre-trained models
+Pre-trained models can be accessed via the following link: (https://pan.baidu.com/s/1TZ90e0NVlGf7Ar9YBkuH1w The extraction code is 7jp8).
+
 ## Dataset
 [BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 ```bibtex
