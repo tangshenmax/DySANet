@@ -12,7 +12,7 @@ Official repository for the paper:
 ![SegVis](assets/images/Skin_Seg_Vis.png)
 
 ## pre-trained models
-Pre-trained models can be accessed via the following link: (, The extraction code is 7jp8).
+Pre-trained models can be accessed via the following link: (https://pan.baidu.com/s/1OJ1kcgzM8aKMQWtTbyehsA,The extraction code is gc6d).
 
 ## Dataset
 [BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
