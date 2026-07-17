@@ -22,16 +22,16 @@ Thank you for your interest in our work.
 ## Dataset
 [Dataset Structure]
 ```bibtex
-- datasets
-    - train
-      - images
-      - masks
-    - val
-      - images
-      - masks
-    - test
-      - images
-      - masks
+	- datasets
+	    - train
+	      - images
+	      - masks
+	    - val
+	      - images
+	      - masks
+	    - test
+	      - images
+	      - masks
 ```bibtex
 
 [BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
