@@ -14,6 +14,18 @@ Official repository for the paper:
 ## pre-trained models
 Pre-trained models can be accessed via the following link: (https://pan.baidu.com/s/1OJ1kcgzM8aKMQWtTbyehsA,The extraction code is gc6d).
 
+## Dataset Folder 
+- datasets
+    - train
+      - images
+      - masks
+    - val
+      - images
+      - masks
+    - test
+      - images
+      - masks
+
 ## Dataset
 [BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 ```bibtex
