@@ -20,20 +20,6 @@ Thank you for your interest in our work.
 ![SegVis](assets/images/Skin_Seg_Vis.png)
 
 ## Dataset
-[Dataset Structure]()
-```bibtex
-	- datasets
-	    - train
-	      - images
-	      - masks
-	    - val
-	      - images
-	      - masks
-	    - test
-	      - images
-	      - masks
-```bibtex
-
 [BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 ```bibtex
 @article{ALDHABYANI2020104863,
